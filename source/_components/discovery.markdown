@@ -100,6 +100,7 @@ Valid values for ignore are:
  * `yamaha`: Yamaha media player
  * `yeelight`: Yeelight lamps and bulbs (not only Yeelight Sunflower bulb)
  * `xiaomi_gw`: Xiaomi Aqara gateway
+ * `igd`: UPnP/IGD 
 
 Valid values for enable are:
 
